@@ -19,11 +19,15 @@ The primary goal of Crop Connect is to create a seamless, transparent exchange o
 - **Quality Assurance:** Ensures that all crop production meets set quality standards.
 - **Delivery Management:** Streamlines the distribution process to FMCG companies and other buyers.
 - **Mailing Notifications:** Automated notifications for registration, sales, and delivery updates.
+- **Geolocation Services:** Provides location access for distributors to manage logistics efficiently.
 
 ## Technology Stack
 - **Frontend:** Java Swing UI (Developed using NetBeans)
 - **Backend:** Java
-
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes
+- **Notifications:** SMTP for automated email notifications
+- **Geolocation:** GPS integration
 
 ## Acknowledgements
 We thank our professors and peers at INFO 5100 who provided insights and feedback during the development of this project.
